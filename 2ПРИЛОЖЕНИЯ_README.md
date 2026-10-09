@@ -1,4 +1,8 @@
-<img width="526" height="714" alt="image" src="https://github.com/user-attachments/assets/d384527e-dca5-4b98-b98e-8605a26a7fd7" />
+<p align="center">**ПРИЛОЖЕНИЯ**</p>
 
 
-<img width="566" height="398" alt="image" src="https://github.com/user-attachments/assets/2bba00b0-0324-4d1b-9301-8767983cf8be" />
+<img width="958" height="612" alt="image" src="https://github.com/user-attachments/assets/e201cddd-9431-4eed-abc9-581edc880685" />
+
+
+
+<img width="766" height="718" alt="image" src="https://github.com/user-attachments/assets/8a98e088-1b76-4f79-80d7-246dafd7518f" />
