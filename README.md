@@ -1,0 +1,27 @@
+Авторизация                         
+- Пустые поля                 
+<img width="570" height="352" alt="image" src="https://github.com/user-attachments/assets/f8c5d940-2a5a-4096-ad67-aebec1474bc6" />
+
+- Неправильный логин               
+<img width="530" height="348" alt="image" src="https://github.com/user-attachments/assets/edfd247f-6fe8-45c8-aef8-a1fcef2c3d01" />                          
+
+- Успешный вход                                                         
+<img width="524" height="374" alt="image" src="https://github.com/user-attachments/assets/34e02deb-2079-4dc5-8053-0cdaced6b6a9" />                          
+
+Форма с товарами                
+- Сортировка                             
+Светло красный если количество <= 3, если товар ни разу не заказывали скидка 25%                   
+<img width="712" height="484" alt="image" src="https://github.com/user-attachments/assets/7dd81cf0-a4dd-4591-a13a-514529a7b41c" />                         
+
+-Фильтрация                             
+<img width="704" height="504" alt="image" src="https://github.com/user-attachments/assets/d2be3fd8-f1f8-4aa2-b3c1-02f37f444620" />                       
+
+-Поиск                                 
+<img width="674" height="462" alt="image" src="https://github.com/user-attachments/assets/76fb9b70-5ed1-4b60-8d89-340c2eca1a57" />                       
+
+Возможность заказать товар                        
+<img width="796" height="638" alt="image" src="https://github.com/user-attachments/assets/70dfba68-52f8-4707-aeaa-169b7bccb0cc" />                          
+
+Заказы                           
+<img width="896" height="636" alt="image" src="https://github.com/user-attachments/assets/41b08e84-52fc-4a43-bd08-7c4ed95abca4" />                
+    
